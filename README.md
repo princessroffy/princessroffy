@@ -1,52 +1,64 @@
 # Hi, I'm Rofiyat Aliyu 👋
 
-## AI & Data for Social Impact
+---
 
-I am passionate about using technology to solve real-world problems in health, education, and community development.
+##  About Me
 
-With a background in **Biology Education** and **Statistics**, I am currently building skills in:
+I am passionate about using **AI, Data, and Technology** to solve real-world problems in **health, education, and community development**.
+
+With a background in **Biology Education** and **Statistics**, I am building practical skills in:
 
 - Python & Data Analysis
 - Machine Learning
 - Web Development
 - AI for Social Impact
 
----
-
-##  What I'm Building
-
-- NGO Data Systems
-- Health Risk Analysis Tools
-- Machine Learning Models for Community Impact
-- Interactive Web Applications
+I am also the Founder of **Rofiyat Empowerment Initiative (REI)**, focused on empowering women and children through education, health, and technology.
 
 ---
 
-##  Skills
+##  Featured Projects
 
-- Python (Pandas, NumPy, Matplotlib, Scikit-learn)
-- HTML, CSS, JavaScript
-- Data Analysis & Visualization
-- Streamlit App Development
+- 🧪 **Health Risk Analysis App**  
+  NGO-ready health screening system with report generation
+
+- 📊 **Survey Intelligence Dashboard**  
+  Transforms community survey data into actionable insights
+
+- 🎯 **Resource Allocation Optimization Model**  
+  Data-driven system for fair NGO resource distribution
+
+- 🤖 **Beneficiary Impact Prediction Model**  
+  Predicts impact level and dropout risk using data logic
+
+- 🔍 **NGO Fraud Detection System**  
+  Identifies duplicate and suspicious beneficiary records
 
 ---
 
-##  Current Goals
+##  Tech Stack
 
-- Build strong AI & Data portfolio
-- Apply for MSc (AI / Public Health / Data)
-- Use tech to grow my NGO (REI)
+**Languages & Tools:**  
+Python, Pandas, NumPy, Matplotlib, Scikit-learn, Streamlit  
+HTML, CSS, JavaScript, Git, GitHub  
+
+**Focus Areas:**  
+Machine Learning • Data Analysis • Public Health Analytics • Social Impact Tech
 
 ---
 
-##  About My NGO
+##  Current Focus
 
-I am the Founder of **Rofiyat Empowerment Initiative (REI)**, focused on:
+- Building real-world AI & Data projects  
+- Developing NGO data systems  
+- Preparing for MSc (AI / Public Health / Data)  
+- Creating impact-driven technology solutions  
 
-- Health awareness
-- Education support
-- Women empowerment
-- Tech access for underserved communities
+---
+
+##  My Mission
+
+To use technology as a tool to **empower communities, improve lives, and create sustainable impact globally**.
 
 ---
 
@@ -54,3 +66,4 @@ I am the Founder of **Rofiyat Empowerment Initiative (REI)**, focused on:
 
 - LinkedIn: https://www.linkedin.com/in/rofiyat-aliyu-201045164/
 - Instagram: @princess_roffy
+- NGO: Rofiyat Empowerment Initiative
