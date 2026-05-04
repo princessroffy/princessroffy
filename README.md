@@ -1,16 +1,56 @@
-## Hi there 👋
+# Hi, I'm Rofiyat Aliyu 👋
 
-<!--
-**princessroffy/princessroffy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## AI & Data for Social Impact
 
-Here are some ideas to get you started:
+I am passionate about using technology to solve real-world problems in health, education, and community development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+With a background in **Biology Education** and **Statistics**, I am currently building skills in:
+
+- Python & Data Analysis
+- Machine Learning
+- Web Development
+- AI for Social Impact
+
+---
+
+##  What I'm Building
+
+- NGO Data Systems
+- Health Risk Analysis Tools
+- Machine Learning Models for Community Impact
+- Interactive Web Applications
+
+---
+
+##  Skills
+
+- Python (Pandas, NumPy, Matplotlib, Scikit-learn)
+- HTML, CSS, JavaScript
+- Data Analysis & Visualization
+- Streamlit App Development
+
+---
+
+##  Current Goals
+
+- Build strong AI & Data portfolio
+- Apply for MSc (AI / Public Health / Data)
+- Use tech to grow my NGO (REI)
+
+---
+
+##  About My NGO
+
+I am the Founder of **Rofiyat Empowerment Initiative (REI)**, focused on:
+
+- Health awareness
+- Education support
+- Women empowerment
+- Tech access for underserved communities
+
+---
+
+##  Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/rofiyat-aliyu-201045164/
+- Instagram: @princess_roffy
