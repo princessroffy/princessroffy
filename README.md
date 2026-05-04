@@ -50,8 +50,7 @@ Machine Learning • Data Analysis • Public Health Analytics • Social Impact
 ##  Current Focus
 
 - Building real-world AI & Data projects  
-- Developing NGO data systems  
-- Preparing for MSc (AI / Public Health / Data)  
+- Developing NGO data systems    
 - Creating impact-driven technology solutions  
 
 ---
@@ -65,5 +64,4 @@ To use technology as a tool to **empower communities, improve lives, and create 
 ##  Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/rofiyat-aliyu-201045164/
-- Instagram: @princess_roffy
 - NGO: Rofiyat Empowerment Initiative
