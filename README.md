@@ -1,8 +1,5 @@
 # Hi, I'm Rofiyat Aliyu 👋
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=princessroffy&show_icons=true&theme=default" />
-</p>
 ---
 
 ##  About Me
